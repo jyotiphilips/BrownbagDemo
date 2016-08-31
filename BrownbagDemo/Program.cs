@@ -7,7 +7,7 @@ namespace BrownbagDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, int!");
-            Console.WriteLine("Hello World2!");
+            Console.WriteLine("Brownbag today");
             Console.ReadLine();
         }
     }
