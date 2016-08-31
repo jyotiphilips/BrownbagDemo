@@ -6,7 +6,7 @@ namespace BrownbagDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello from branch int!");
+            Console.WriteLine("Hello, int!");
             Console.WriteLine("Hello World2!");
             Console.ReadLine();
         }
